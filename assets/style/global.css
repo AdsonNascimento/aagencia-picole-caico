@@ -19,8 +19,8 @@ html {
   --white-smoke: #F3F2F2ff;
   --mikado-yellow-2: #FEC300ff;
   --orange-peel: #FF9F03ff;
-  --blue: #01CCCC;
-  --blue-dark: #0051B7;
+  --blue: #22cccb;
+  --orange: #FC6428;
 
   /*==== grey ====*/
   --grey-darck: #4D5E77;
@@ -65,7 +65,7 @@ ul {
 }
 
 header {
-  background-color: var(--blue-dark);
+  background-color: var(--orange);
 }
 
 header .logo h1 {

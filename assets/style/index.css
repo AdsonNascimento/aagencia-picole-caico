@@ -57,7 +57,7 @@ section {
 }
 
 #compre {
-    background-color: var(--blue-dark);
+    background-color: var(--orange);
 }
 
 .compre-text-1 h2,
@@ -66,7 +66,7 @@ section {
 }
 
 #produtos {
-    background-color: var(--mikado-yellow-2);
+    background-color: var(--blue);
 }
 
 .produtos-text {
@@ -100,11 +100,16 @@ section {
 .produtos-item h3 {
     font-size: 2rem;
     font-weight: bold;
-    color: black;
+    color: #000;
 }
 
 #sobre {
-    background-color: var(--orange-peel);
+    background-color: var(--orange);
+}
+
+#sobre p,
+#sobre h2 {
+    color: #fff;
 }
 
 .sobre-img {
@@ -124,8 +129,18 @@ section {
     background-color: var(--blue);
 }
 
+#peca p,
+#peca h2 {
+    color: #fff;
+}
+
 #seja {
-    background-color: var(--white-smoke);
+    background-color: var(--orange);
+}
+
+#seja p,
+#seja h2 {
+    color: #fff;
 }
 
 .compre-text-3 {
